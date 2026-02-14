@@ -53,13 +53,14 @@ https://ai-career-guidance-system-drmkhttknffsjwwbricqhf.streamlit.app/
 ---
 
 ## 📂 Project Structure
+```
 ai-career-guidance-system/
 │
 ├── app.py
 ├── career_skills_dataset_levelwise_skills.csv
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## ⚙️ Machine Learning Pipeline
@@ -93,7 +94,7 @@ pip install -r requirements.txt
 
 3️⃣ Run the Application
 streamlit run app.py
-
+```
    ---
    
 ## 🌍 SDG Impact
