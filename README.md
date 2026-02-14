@@ -85,7 +85,7 @@ ai-career-guidance-system/
 
 ## How to Run Locally
 ```bash
-### 1️⃣ Clone the Repository
+1️⃣ Clone the Repository
 git clone https://github.com/your-username/ai-career-guidance-system.git
 cd ai-career-guidance-system
 ```
