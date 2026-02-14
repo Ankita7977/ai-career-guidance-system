@@ -1,0 +1,79 @@
+career,experience_level,skills
+AI Engineer,Beginner,"python, cnn rnn computer vision deep learning"
+AI Engineer,Intermediate,"python ,deep learning, nlp transformers, neural networks"
+AI Engineer,Advanced,"python, nlp sentiment analysis text classification"
+AR VR Developer,Beginner,3d modeling unity ar applications
+AR VR Developer,Intermediate,advanced ar vr interaction design
+AR VR Developer,Advanced,unity ar vr development basics
+Backend Developer,Beginner,java spring boot rest api microservices
+Backend Developer,Intermediate,nodejs express mongodb backend api
+Backend Developer,Advanced,python django rest api sql backend
+Blockchain Developer,Beginner,blockchain architecture security optimization
+Blockchain Developer,Intermediate,blockchain basics smart contracts solidity
+Blockchain Developer,Advanced,ethereum solidity dapps development
+Business Analyst,Beginner,excel sql business analysis power bi communication
+Business Analyst,Intermediate,requirements gathering stakeholder communication
+Business Analyst,Advanced,sql power bi business reporting analysis
+Cloud Engineer,Beginner,aws ec2 s3 iam cloud deployment
+Cloud Engineer,Intermediate,azure devops cloud infrastructure
+Cloud Engineer,Advanced,linux networking aws azure cloud services
+Cyber Security Analyst,Beginner,ethical hacking penetration testing security audits
+Cyber Security Analyst,Intermediate,network security firewalls monitoring
+Cyber Security Analyst,Advanced,networking linux security tools threat analysis
+Data Analyst,Beginner,excel sql power bi data visualization statistics
+Data Analyst,Intermediate,excel sql tableau business analysis reporting
+Data Analyst,Advanced,sql python data cleaning statistics visualization
+Data Engineer,Beginner,python airflow data ingestion pipelines
+Data Engineer,Intermediate,python sql etl data pipelines big data
+Data Engineer,Advanced,spark hadoop data warehousing etl
+Data Scientist,Beginner,python deep learning nlp feature engineering model evaluation
+Data Scientist,Intermediate,python sql machine learning statistics data analysis pandas numpy
+Data Scientist,Advanced,python sql power bi statistics visualization
+DevOps Engineer,Beginner,jenkins docker aws devops tools
+DevOps Engineer,Intermediate,linux docker kubernetes ci cd automation
+DevOps Engineer,Advanced,linux scripting ci cd pipelines
+Digital Marketing Specialist,Beginner,google ads social media marketing
+Digital Marketing Specialist,Intermediate,marketing automation data analytics
+Digital Marketing Specialist,Advanced,seo sem content marketing analytics
+Finance Analyst,Beginner,excel financial modeling accounting analysis
+Finance Analyst,Intermediate,risk analysis forecasting financial analytics
+Finance Analyst,Advanced,sql finance data analysis reporting
+Frontend Developer,Beginner,"html css javascript react ui design, react redux javascript frontend optimization"
+Frontend Developer,Intermediate,"html css javascript react ui design, react redux javascript frontend optimization"
+Frontend Developer,Advanced,"html css javascript react ui design, react redux javascript frontend optimization"
+Game Developer,Beginner,cplusplus unity game mechanics
+Game Developer,Intermediate,game engine optimization advanced graphics
+Game Developer,Advanced,unity csharp game development
+HR Analyst,Beginner,excel hr analytics data visualization reporting
+HR Analyst,Intermediate,people analytics predictive modeling hr data
+HR Analyst,Advanced,sql power bi workforce analytics
+IoT Engineer,Beginner,embedded systems sensors iot protocols
+IoT Engineer,Intermediate,iot architecture edge computing security
+IoT Engineer,Advanced,python iot data processing cloud integration
+Machine Learning Engineer,Beginner,python machine learning deep learning feature engineering
+Machine Learning Engineer,Intermediate,python sklearn tensorflow pytorch model deployment
+Machine Learning Engineer,Advanced,python statistics ml algorithms data preprocessing
+Mobile App Developer,Beginner,flutter dart mobile app development
+Mobile App Developer,Intermediate,java kotlin android app development
+Mobile App Developer,Advanced,react native javascript mobile apps
+Operations Analyst,Beginner,advanced analytics operations strategy
+Operations Analyst,Intermediate,data analysis optimization supply chain
+Operations Analyst,Advanced,process analysis excel operations management
+Product Manager,Beginner,market research stakeholder management strategy
+Product Manager,Intermediate,product lifecycle agile scrum roadmap planning
+Product Manager,Advanced,requirement analysis product documentation
+QA Engineer,Beginner,api testing performance testing tools
+QA Engineer,Intermediate,automation testing selenium python java
+QA Engineer,Advanced,manual testing test cases defect tracking
+Software Developer,Beginner,java python dsa oops problem solving
+Software Developer,Intermediate,java spring boot sql backend development
+Software Developer,Advanced,python flask django backend development
+Supply Chain Analyst,Beginner,logistics inventory management excel
+Supply Chain Analyst,Intermediate,optimization models supply chain strategy
+Supply Chain Analyst,Advanced,sql supply chain analytics forecasting
+UI UX Designer,Beginner,figma adobe xd wireframing prototyping
+UI UX Designer,Intermediate,interaction design visual design ux strategy
+UI UX Designer,Advanced,user research usability testing design thinking
+Web Developer,Beginner,html css javascript bootstrap responsive design
+Web Developer,Intermediate,html css javascript react frontend
+Web Developer,Advanced,react javascript api integration frontend
