@@ -48,7 +48,7 @@ https://ai-career-guidance-system-drmkhttknffsjwwbricqhf.streamlit.app/
   - career
   - skills
   - experience_level
-- Used for multi-class classification
+  - Used for training a multi-class career prediction model
 
 ---
 
@@ -86,7 +86,7 @@ ai-career-guidance-system/
 ## How to Run Locally
 ```bash
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/ai-career-guidance-system.git
+git clone https://github.com/Ankita7977/ai-career-guidance-system.git
 cd ai-career-guidance-system
 ```
 ```bash
