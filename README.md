@@ -84,14 +84,16 @@ ai-career-guidance-system/
 ---
 
 ## How to Run Locally
-### 1️⃣ Clone the Repository
 ```bash
+### 1️⃣ Clone the Repository
 git clone https://github.com/your-username/ai-career-guidance-system.git
 cd ai-career-guidance-system
-
+```
+```bash
 2️⃣ Install Dependencies
 pip install -r requirements.txt
-
+```
+```bash
 3️⃣ Run the Application
 streamlit run app.py
 ```
